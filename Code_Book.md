@@ -33,4 +33,4 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-###Please Check the READ_ME text file for additional information and the instructions that are implemented
+### Please Check the READ_ME text file for additional information and the instructions that are implemented
